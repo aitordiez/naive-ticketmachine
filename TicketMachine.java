@@ -110,6 +110,11 @@ public class TicketMachine
     {
         return total;
     }
+    public void vaciar()
+    {
+        total=0;
+        
+    }
 }
 
 
